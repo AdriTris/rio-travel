@@ -1,0 +1,11 @@
+{
+  "name": "rio-travel-",
+  "version": "1.0.0",
+  "description": "Una pagina web de viajes creada con el framework de css, tailwind, la cual cuenta con diseño responsive.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adriana Barrera",
+  "license": "ISC"
+}
