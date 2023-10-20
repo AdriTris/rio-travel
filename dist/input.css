@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Card{
+    @apply w-48 h-64 shadow-md rounded-lg flex-none transform transition-all hover:-translate-y-2 hover:shadow-xl
+}
+
+.CardTittle{
+    @apply text-3xl px-8 pt-8 font-semibold text-white
+}
